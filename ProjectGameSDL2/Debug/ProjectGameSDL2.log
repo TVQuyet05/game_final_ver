@@ -1,0 +1,4 @@
+﻿  BaseObject.cpp
+Debug\BaseObject.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\ItemsObject.obj : warning LNK4042: object specified more than once; extras ignored
+  ProjectGameSDL2.vcxproj -> C:\GameSDL2\ProjectGameSDL2Copy\Debug\ProjectGameSDL2.exe
